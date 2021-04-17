@@ -60,7 +60,7 @@ const app = Vue.createApp({
   methods: {
 
     // Fan right
-    fanEvent: () => {
+    fanEvent() {
       this.fan = {
         direction: 'right',
         easing: 'ease-out',

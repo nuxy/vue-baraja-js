@@ -70,7 +70,7 @@ const cards = [
 /* eslint-enable max-len */
 
 const app = Vue.createApp({
-  data: () => {
+  data() {
     return {
       cards: cards,
       add: null,
