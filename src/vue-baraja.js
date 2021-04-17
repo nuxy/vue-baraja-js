@@ -9,7 +9,7 @@
 
 'use strict';
 
-import {onMounted, ref} from 'vue';
+import {ref} from 'vue';
 import Baraja from 'baraja-js';
 import 'baraja-js/dist/baraja.min.css';
 
