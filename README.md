@@ -22,7 +22,7 @@ Add to an existing [Vue](https://vuejs.org) project using [YARN](https://yarnpkg
 
 ```javascript
 import * as Vue from 'vue'
-import BarajaJS from '../dist/vue-baraja-js';
+import BarajaJS from 'vue-baraja-js'; // or '../dist/vue-baraja-js';
 
 const cards = [
   {
