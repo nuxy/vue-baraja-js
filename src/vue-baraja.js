@@ -17,7 +17,7 @@ import 'baraja-js/dist/baraja.min.css';
  * Provides Vue Component wrapper.
  */
 export default {
-  setup(props) {
+  setup() {
     const elRef = ref(null);
 
     return {elRef};
