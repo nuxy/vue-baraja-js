@@ -1,4 +1,6 @@
-# Vue Baraja-JS [![npm version](https://badge.fury.io/js/vue-baraja-js.svg)](https://badge.fury.io/js/vue-baraja-js) [![](https://img.shields.io/npm/dm/vue-baraja-js)](https://www.npmjs.com/package/vue-baraja-js)
+# Vue Baraja-JS
+
+[![npm version](https://badge.fury.io/js/vue-baraja-js.svg)](https://badge.fury.io/js/vue-baraja-js) [![](https://img.shields.io/npm/dm/vue-baraja-js)](https://www.npmjs.com/package/vue-baraja-js) [![Install size](https://packagephobia.com/badge?p=vue-baraja-js)](https://packagephobia.com/result?p=vue-baraja-js) [![](https://img.shields.io/github/v/release/nuxy/vue-baraja-js)](https://github.com/nuxy/vue-baraja-js/releases)
 
 ![Preview](https://raw.githubusercontent.com/nuxy/baraja-js/master/package.gif)
 
