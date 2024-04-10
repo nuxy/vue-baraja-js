@@ -44,8 +44,6 @@
     "@node-minify/cli": "^6.2.0",
     "@node-minify/uglify-js": "^4.0.5",
     "babel-loader": "^8.2.5",
-    "babel-preset-env": "^1.7.0",
-    "babel-preset-vue": "^2.0.2",
     "css-loader": "^6.10.0",
     "eslint": "^8.57.0",
     "mini-css-extract-plugin": "^1.6.2",
