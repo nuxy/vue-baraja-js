@@ -14,7 +14,7 @@ That being said, the urgency of resolving these flagged issues is minimal, at be
 
 ## Reporting an issue
 
-If you find a vulnerability with this package, please report it [here](https://github.com/nuxy/vue-slot-machine-gen/issues) for full disclosure.
+If you find a vulnerability with this package, please report it [here](https://github.com/nuxy/vue-baraja-js/issues) for full disclosure.
 
 ## Contributions
 
